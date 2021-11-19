@@ -1,5 +1,4 @@
 
-
 # AirBnB Data Analysis Project - (Travel Data Analysis) 🔥🍁
 
 <p align="center">
@@ -23,6 +22,7 @@ housing price ranges are of great interest for both Hosts and Traveler. In this 
 various aspects with different use cases which covers  many aspects of airbnb listings. It helps in not only 
 understanding  the  meaningful  relationships  between  attributes  but  it  also  allows  us  to  do  our  own 
 research and come-up with our findings.
+
 The objective of the project is to perform  an exploratory data analysis, data pre-processing, data cleaning 
 & imputation and at the end, apply different Data Visualization  techniques  to  get the  meaningful insight 
 from the given data. This project aims apply some amazing Python Libraries such as Plotly and WordCloud 
