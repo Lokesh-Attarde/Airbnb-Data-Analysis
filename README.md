@@ -29,7 +29,7 @@ from the given data. This project aims apply some amazing Python Libraries such 
 which will give a boost to our visual understanding of the data.
 
 # ⏳ Dataset
-* Download the dataset for this project from following Link -
+Download the dataset for this project from following Link -
 * [Airbnb Data Analysis Dataset](https://drive.google.com/drive/folders/1g9GW-c66UyKh01pCey8vxO2y6fcJ-Nhy?usp=sharing)
 
 # 📚 Data Analysis
